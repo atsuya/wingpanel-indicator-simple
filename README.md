@@ -1,4 +1,4 @@
-# simple-wingpanel-indicator
+# wingpanel-indicator-simple
 
 This is a simple implementation of Elementary OS Wingpanel indicator.
 
