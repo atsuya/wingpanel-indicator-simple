@@ -9,6 +9,9 @@ The code is taken from [Wingpanel repository](https://github.com/elementary/wing
 You'll need the following dependencies:
 
 * libwingpanel-2.0-dev
+* libgee-0.8-dev
+* libgtk-3-dev
+* libnotify-dev
 * meson
 * valac
 
